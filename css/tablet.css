@@ -1,0 +1,20 @@
+.main-tables-container{ 
+    overflow-x: hidden;
+    justify-content: center;
+}
+.product-card--container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 930px;
+    margin: 0 auto;
+}
+
+.plans-container--slider{
+    justify-content: center;
+    overflow-x: hidden;
+}
+
+.left li{
+    display: inline-block;
+    margin: 0 10px;
+}
